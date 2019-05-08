@@ -10,7 +10,8 @@
 
 
 
-import BookList from './components/BookList/BookList';
+
+import BookList from './components/BookList';
 
 export default {
   name: 'app',
